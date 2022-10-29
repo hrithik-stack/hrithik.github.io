@@ -58,13 +58,13 @@ body {
 /* NOTE: NAVBAR controller below */
 
 
-nav { 
+nav {     /* About-projects-skills-etc at top */
     position: sticky;
    top: 0;
    z-index: 100;
     display: flex;
     justify-content: space-around;
-    padding-top: 500px;
+    padding-top: 50px;
     padding-left: 2%;
     padding-right: 2%;
 
@@ -74,7 +74,7 @@ nav ul li {
     list-style-type: none;
     display: inline-block;
     font-family: 'Josefin Sans', sans-serif;
-    padding: 15px 25px;
+    padding: 150px 25px;
 }
 
 nav ul li a {
