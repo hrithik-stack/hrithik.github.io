@@ -192,7 +192,7 @@ button:hover {
 .scroll-list {
     padding: 5%;
     display: flex;
-    overflow-x: auto;
+    overflow-x: hidden;
     background-color: black;
 }
 .scroll-box h1{
