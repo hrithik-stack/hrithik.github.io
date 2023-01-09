@@ -122,6 +122,8 @@ span {
     /* margin: 0 auto; */
     display: flex;
     justify-content: space-around;
+	border-radius: 50%;
+	
 }
 
 img {
