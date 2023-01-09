@@ -134,7 +134,7 @@ img {
 
 .about-image img {
     display: block;
-    flex: 1;
+    flex: 0;
     max-width: var(--img-width);
 }
 
