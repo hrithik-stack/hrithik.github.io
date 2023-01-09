@@ -119,11 +119,9 @@ span {
 }
 
 .about-image {
-    /* margin: 0 auto; */
-/*     display: flex;
-    justify-content: space-around; */
-	border-radius: 50%;
-	
+     /* margin: 0 auto; */
+    display: flex;
+    justify-content: space-around;
 }
 
 img {
@@ -138,6 +136,7 @@ img {
     display: block;
     flex: 1;
     max-width: var(--img-width);
+	border-radius : 50%;
 }
 
 .about-text {
