@@ -208,7 +208,7 @@ padding :5%
 
 }
 .card-info {
-    background-color: #f9004d;
+    background-color: #5086c8;
     padding: 1%;
     margin: 1%;
     border-radius: 10px;
@@ -220,7 +220,7 @@ padding :5%
 }
 
 .image-product {
-    background-color: #f9004d;
+    background-color: #5086c8;
     display: flex;
     margin: 0.5%;
     justify-content: center;
@@ -228,14 +228,14 @@ padding :5%
 }
 
 .about-info {
-    background-color: #f9004d;
+    background-color: #5086c8;
     margin: 0.5%;
     padding: 20px;
 }
 
 .link {
     margin: 0.5%;
-    background-color: #f9004d;
+    background-color: #5086c8;
     text-align: center;
     color: blue;
 }
