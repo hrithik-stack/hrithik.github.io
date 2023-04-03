@@ -85,13 +85,13 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f9004d;
+    color:  #483C32;
     transition: .4s;
 }
 
 
 .button {
-    background-color: #f9004d;
+    background-color:  #483C32;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
