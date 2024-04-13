@@ -85,13 +85,13 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color:  #f9004d;
+    color:  #798DC5;
     transition: .4s;
 }
 
 
 .button {
-    background-color:  #f9004d;
+    background-color:  #798DC5;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -170,7 +170,7 @@ img {
 }
 
 button {
-    background-color: #f9004d;
+    background-color: #798DC5;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -183,7 +183,7 @@ button {
 
 button:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #798DC5;
     cursor: pointer;
 }
 
@@ -208,7 +208,7 @@ padding :5%
 
 }
 .card-info {
-    background-color: #f9004d;
+    background-color: #798DC5;
     padding: 1%;
     margin: 1%;
     border-radius: 10px;
@@ -220,7 +220,7 @@ padding :5%
 }
 
 .image-product {
-    background-color: #f9004d;
+    background-color: #798DC5;
     display: flex;
     margin: 0.5%;
     justify-content: center;
@@ -228,14 +228,14 @@ padding :5%
 }
 
 .about-info {
-    background-color: #f9004d;
+    background-color: #798DC5;
     margin: 0.5%;
     padding: 20px;
 }
 
 .link {
     margin: 0.5%;
-    background-color: #f9004d;
+    background-color: #798DC5;
     text-align: center;
     color: blue;
 }
@@ -258,7 +258,7 @@ padding :5%
 	margin-bottom: 25px;
 }
 .contact-me .button-two{
-	background-color:#f9004d;
+	background-color:#798DC5;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -269,7 +269,7 @@ padding :5%
 }
 .contact-me .button-two:hover{
 	background-color: transparent;
-	border: 2px solid #f9004d;
+	border: 2px solid #798DC5;
 	cursor: pointer;
 }
 
@@ -277,7 +277,7 @@ footer{
 	position: relative;
 	width: 100%;
 	height: 250px;
-	background: #f9004d;
+	background: #798DC5;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -470,7 +470,7 @@ color: #333;
 .code-description {
 width: 100%;
 height: 100%;
-color: #f9004d;
+color: #798DC5;
 }
 
 .code-description * {
