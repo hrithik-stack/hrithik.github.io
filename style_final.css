@@ -734,11 +734,6 @@ overflow: hidden;
 }
 
 
-
-
-
-
-
 .hex-inner-2::before, .hex-inner-2::after {
 position: absolute;
 background-repeat: no-repeat;
@@ -752,7 +747,6 @@ content: "";
 -webkit-transform: rotate(30deg);
 transform: rotate(30deg);
 }
-
 
 /**********************************************************************************
                                 Hex Hover Area
